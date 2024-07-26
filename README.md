@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decision Tree Classification with Hyperparamater Tuning
 
 ### This project demonstrates the use of a Decision Tree Classifier to predict whether a user purchases a product based on their age and estimated salary. The dataset used is Social_Network_Ads.csv, and various techniques such as feature scaling, cross-validation, and hyperparameter tuning are applied to optimize the model's performance.
@@ -37,3 +38,6 @@ This project showcases how to implement a Decision Tree Classifier on a real-wor
 ## Contact
 - For any inquiries or support, please contact at soham.sonar427@gmail.com.
 - You can connect with me on linkedIn @ https://www.linkedin.com/in/sohamsonar23/
+=======
+# Decision Tree Model with hyperparameter Tuning
+>>>>>>> 2d9ff82f0933b266075eb904da8b39da97ef0287
