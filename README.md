@@ -24,16 +24,6 @@ The goal of this project is to build a Decision Tree Classifier to predict wheth
 
 This project showcases how to implement a Decision Tree Classifier on a real-world dataset, perform data preprocessing, evaluate model performance, and optimize hyperparameters using GridSearchCV and RandomizedSearchCV.
 
-## Contributing
-### Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature/new-feature).
-3. Make your changes.
-4. Commit your changes (git commit -am 'Add new feature').
-5. Push to the branch (git push origin feature/new-feature).
-6. Create a new pull request.
-
 ## Contact
 - For any inquiries or support, please contact at soham.sonar427@gmail.com.
 - You can connect with me on linkedIn @ https://www.linkedin.com/in/sohamsonar23/
